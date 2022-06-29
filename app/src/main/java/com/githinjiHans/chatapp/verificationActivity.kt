@@ -23,12 +23,12 @@ class VerificationActivity : AppCompatActivity() {
             startActivity(intent)
             finish()
         }
-        supportActionBar!!.hide()
+        supportActionBar?.hide()
         binding!!.editNumber.requestFocus()
         binding!!.continueBtn.setOnClickListener{
             val intent = Intent(this@VerificationActivity,
             OTPActivity :: class.java)
-            intent.putExtra("phoneNumber",binding!!.editNumber.text.toString())
+            intent.putExtra("phoneNumber", binding!!.editNumber.text.toString())
             startActivity(intent)
         }
     }

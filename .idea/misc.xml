@@ -6,7 +6,8 @@
         <entry key="app/src/main/res/drawable/backgound_shape.xml" value="0.1885" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.12604166666666666" />
         <entry key="app/src/main/res/layout/activity_otp.xml" value="0.17119565217391305" />
-        <entry key="app/src/main/res/layout/activity_verification.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_setup_profile.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_verification.xml" value="0.18" />
         <entry key="app/src/main/res/layout/activity_verificcation.xml" value="0.1890625" />
       </map>
     </option>

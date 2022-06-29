@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129403107790",
+    "project_id": "turtlewhisp",
+    "storage_bucket": "turtlewhisp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129403107790:android:e38d4df03df7a81996539f",
+        "android_client_info": {
+          "package_name": "com.githinjiHans.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129403107790-ulv53huj7i5fdcd5kmtd2t9acmfoofur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxQe720H1tABYMTaHi5O4qLO8OEZ07fb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129403107790-ulv53huj7i5fdcd5kmtd2t9acmfoofur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

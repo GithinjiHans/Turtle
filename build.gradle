@@ -1,11 +1,18 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
     repositories {
+<<<<<<< HEAD
+=======
+        google()
+>>>>>>> 1e65fa8 (Initial commit)
         jcenter()
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:7.2.1'
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1e65fa8 (Initial commit)
         classpath 'com.google.gms:google-services:4.3.12'
     }
 }
