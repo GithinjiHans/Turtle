@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="we_will_send_you_an">We will send you an</string>
+    <string name="one_time_password">One Time Password</string>
+    <string name="we_will_send_you_a">We will send you a</string>
+    <string name="type_your_phone_number">Type your Phone Number</string>
+    <string name="on_this_mobile_number">on this mobile number</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="_Continue_btn">Continue</string>
+</resources>
