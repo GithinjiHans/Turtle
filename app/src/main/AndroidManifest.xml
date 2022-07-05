@@ -14,20 +14,19 @@
         android:theme="@style/Theme.ChatApp"
         tools:targetApi="31">
         <activity
+            android:name=".ChatActivity"
+            android:exported="false" />
+        <activity
             android:name=".SetupProfileActivity"
             android:exported="false" />
         <activity
-<<<<<<< HEAD
-            android:name=".OTP_Activity"
-            android:exported="false" />
-        <activity
-            android:name=".verificationActivity"
-=======
             android:name=".OTPActivity"
             android:exported="false" />
         <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
             android:name=".VerificationActivity"
->>>>>>> 1e65fa8 (Initial commit)
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -35,9 +34,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".MainActivity"
-            android:exported="true" />
     </application>
 
 </manifest>

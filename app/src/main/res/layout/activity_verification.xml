@@ -8,15 +8,9 @@
     android:orientation="vertical"
     android:background="#f2f2f2"
     android:gravity="center_horizontal"
-<<<<<<< HEAD
-    tools:context=".verificationActivity">
-    <ImageView
-        android:src="@drawable/urban_camo"
-=======
     tools:context=".VerificationActivity">
     <ImageView
         android:src="@drawable/header"
->>>>>>> 1e65fa8 (Initial commit)
         android:scaleType="centerCrop"
         android:layout_marginTop="10dp"
         android:layout_width="250dp"
@@ -84,17 +78,10 @@
                     android:ems="1"
                     android:inputType="phone"
                     android:textSize="20sp"
-<<<<<<< HEAD
-                    android:textStyle="bold"
-                    android:textColor="#1c1c1c"
-                    android:layout_marginBottom="15dp"
-                    android:background="@drawable/background_shape"
-=======
                     android:textStyle="bold|normal"
                     android:textColor="#1c1c1c"
                     android:layout_marginBottom="15dp"
                     android:background="@color/common_google_signin_btn_text_dark"
->>>>>>> 1e65fa8 (Initial commit)
                     android:layout_width="match_parent"
                     android:layout_height="48dp"
                     android:importantForAutofill="no" />
